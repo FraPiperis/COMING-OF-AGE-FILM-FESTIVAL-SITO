@@ -7,6 +7,15 @@
   gap: 30px; /* spazio tra le card */
 }
 
+main {
+  width: 100%;
+}
+
+.content {
+  width: 100%
+}
+
+
 .about-section-glass {
   background: rgba(255, 255, 255, 0.08);
   border-radius: 20px;

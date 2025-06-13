@@ -9,6 +9,15 @@
   background-color: #000; /* per coerenza con Contatti */
 }
 
+main {
+  width: 100%;
+}
+
+.content {
+  width: 100%
+}
+
+
 /* Navbar */
 .navbar {
   display: flex;

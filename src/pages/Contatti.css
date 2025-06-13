@@ -8,6 +8,15 @@
   padding-bottom: 40px;
 }
 
+main {
+  width: 100%;
+}
+
+.content {
+  width: 100%
+}
+
+
 .navbar {
   display: flex;
   justify-content: center;
